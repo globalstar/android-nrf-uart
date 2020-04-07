@@ -14,3 +14,6 @@ jobs:
           command: chmod +x ./gradlew
       - run:
           command: ./gradlew build
+      - store_artifacts:
+          path: app/build/outputs/apk/
+          destination: apks/
