@@ -15,4 +15,4 @@ This source code can be compiled with Android Studio and Gradle.
 - Android Studio supported 
 
 ###Build Status
-[![<globalstar>](https://circleci.com/<gh>/<globalstar>/<android-nrf-uart>.svg?style=svg)](<https://circleci.com/gh/globalstar/android-nrf-uart>)
+[![<globalstar>](https://circleci.com/gh/globalstar/android-nrf-uart.svg?style=svg)](https://circleci.com/gh/globalstar/android-nrf-uart)
