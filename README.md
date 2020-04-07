@@ -10,6 +10,10 @@ The current version is 3.0.0
 
 This source code can be compiled with Android Studio and Gradle. 
 
-### Note
+### Notes
 - Android 7 or later is required.
 - Android Studio supported 
+
+### Build Status
+
+[![globalstar](https://circleci.com/gh/globalstar/android-nrf-uart.svg?style=svg)](https://circleci.com/gh/globalstar/android-nrf-uart)
